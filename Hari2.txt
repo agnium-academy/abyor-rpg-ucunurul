@@ -6,3 +6,4 @@ Setelah itu kita klik publish pada pojok kanan tampilan GITHUB Desktop
 Kita bisa melihat kontent pada sebuah file di situs
 github.com/agnium-academy. Kemudian pilih working repo atau nama foldernya
 dan akhirnya terlihat kontent didalam file tersebut.
+Kita tambahkan kontent lagi pada file ini.
