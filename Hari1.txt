@@ -16,3 +16,4 @@ Saya menambahkan konten.
 Pada jam 15.36 WIB, saya tambah baris ini
 Kemudian saya commit, lalu saya publish.
 Saya mau tahu fungsi atau hasil perubahannya.
+Ditambah lagi biar lebih mengerti tentang Git, Push to Remote and Pull from Remote.
