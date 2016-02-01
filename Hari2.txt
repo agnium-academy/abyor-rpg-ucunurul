@@ -1,0 +1,8 @@
+Selanjutnya dimulai dengan mempublish file
+Pada aplikasi GITHUB Desktop
+Kita menulis sebuah kontent pada file berformat .txt
+Kemudian kita klik tombol commit to master
+Setelah itu kita klik publish pada pojok kanan tampilan GITHUB Desktop
+Kita bisa melihat kontent pada sebuah file di situs
+github.com/agnium-academy. Kemudian pilih working repo atau nama foldernya
+dan akhirnya terlihat kontent didalam file tersebut.
