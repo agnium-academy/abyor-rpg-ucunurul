@@ -1,0 +1,12 @@
+Senin, 1 Februari 2016.
+Dapat pengetahuan baru tentang GIT & GitHub.
+Berlokasi di kantor Abyor, tepatnya Jl. Pandu Raya No. 10. Indraprasta. Bogor Utara.
+Partisipan yang hadir ada 12 orang, yaitu saya sendiri (Ucu) bersama Trio, Sofi, Dwi Okta, Kiki,
+Dani, Husain, Dwi Seta, Albert, Hasani, Ikbal, Tegar.
+8 orang pertama memwakili PT. Basajans Solusi Internasional,  dan 4 orang terakhir dari PT. JTI.
+Ada beberapa materi dan teori yang disampaikan, yaitu tentang :
+Apa itu GIT?
+Apa itu GITHUB?
+Apa itu BRANCHING?
+Apa itu Clone?
+dan lain sebagainya.
