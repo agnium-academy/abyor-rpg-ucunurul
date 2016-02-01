@@ -7,6 +7,12 @@ Dani, Husain, Dwi Seta, Albert, Hasani, Ikbal, Tegar.
 Ada beberapa materi dan teori yang disampaikan, yaitu tentang :
 Apa itu GIT?
 Apa itu GITHUB?
+Apa itu Staging?
 Apa itu BRANCHING?
 Apa itu Clone?
 dan lain sebagainya.
+Dimulai dari baris ini.
+Saya menambahkan konten.
+Pada jam 15.36 WIB, saya tambah baris ini
+Kemudian saya commit, lalu saya publish.
+Saya mau tahu fungsi atau hasil perubahannya.
